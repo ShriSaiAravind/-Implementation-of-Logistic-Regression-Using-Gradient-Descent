@@ -20,6 +20,8 @@ Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: Shri Sai Aravind. R
 RegisterNumber:  212223040197
 */
+```
+```py
 
 import pandas as pd
 import numpy as np
